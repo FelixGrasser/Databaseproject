@@ -4,7 +4,7 @@ public class secretproject
 {
 public static void main(String[] arg)
 {
-    // Project is not yet completed, the purpose of this project is to create a database where items can be searched.
+    // Project is not yet completed, the purpose of this project is to create a database where items can be tracked.
     // Another purpose of this project is to check prices and the current inventory of these items as well.
    
    // List of fruit avaliable to purchase.
